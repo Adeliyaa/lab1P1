@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\Problem1\Problem1\obj\Debug\Problem1.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\Problem1\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\Problem1\Problem1\bin\Debug\Problem1.exe.config
+C:\Users\delya\source\repos\Problem1\Problem1\bin\Debug\Problem1.exe
+C:\Users\delya\source\repos\Problem1\Problem1\bin\Debug\Problem1.pdb
+C:\Users\delya\source\repos\Problem1\Problem1\obj\Debug\Problem1.exe
+C:\Users\delya\source\repos\Problem1\Problem1\obj\Debug\Problem1.pdb
